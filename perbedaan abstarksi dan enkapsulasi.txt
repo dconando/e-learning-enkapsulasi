@@ -1,0 +1,10 @@
+dalam abstarksi , kita tidak perlu mengetahui bagaimana kelas itu menjalankan fungsinya, kita hanya perlu tahu apa fugsi dari kelas itu. contoh sebuah kelas motor dengan fungsi "melaju". kita hanya perlu tahu bahwa motor dapat melaju, tanpa perlu tau bagaimaa motor melaju. jadi dari segi data hidding, karena kita tidak perlu tahu bagaimana, jadi data tidak perlu diketahui (dapat tersembunyi).
+
+
+sedangkan dalam ekapsulasi, karena ada pembatasan modifier menjadi hanya privat yang hanya dapat diakses oleh kelas itu sediri. jadi data hidding terjadi dikarenakan data hanya bisa di akses oleh kelas itu sendiri atau degan bantuan fungsi setter atau getter.
+
+
+
+Nama : Devie Yanti Librianti
+NPM : 14 111 023
+
